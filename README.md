@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img align="left" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Anjaxter&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaxter&layout=compact&langs_count=16&theme=gruvbox_light"/>
+<img align="left" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Anjaxter&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaxter&layout=compact&langs_count=16&theme=github_dark"/>
 
 <!--
 **Anjaxter/Anjaxter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
