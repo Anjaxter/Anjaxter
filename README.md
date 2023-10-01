@@ -12,9 +12,9 @@
 <!--     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-    <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="androidStudio-icon" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-    <img align="center" height="30" width="40" alt="kotlin-icon" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+    <img align="center" height="60" width="60" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" height="60" width="60" alt="androidStudio-icon" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" height="60" width="60" alt="kotlin-icon" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
    </div>
     
   <!--
